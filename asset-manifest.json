@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e16f0e6.css",
+    "main.js": "/static/js/main.3c2fe6ba.js",
+    "static/media/cimg1.png": "/static/media/cimg1.64d5a19a7bb2fd1ec618.png",
+    "static/media/cimg3.png": "/static/media/cimg3.cf05bae3ccd17734f9d4.png",
+    "static/media/cimg2.png": "/static/media/cimg2.0bbeb4480ddb829f0d5a.png",
+    "static/media/helpinghand.png": "/static/media/helpinghand.d40e8a0d4d04d12b43cf.png",
+    "static/media/feedback.png": "/static/media/feedback.5c2b81b70cbabaf87c6b.png",
+    "static/media/course2.jpg": "/static/media/course2.c23a51219b52516a5c35.jpg",
+    "static/media/aboutimg.jpg": "/static/media/aboutimg.f280d88d199fc7f92f8a.jpg",
+    "static/media/e3.jpg": "/static/media/e3.31911f70e953484d2dd1.jpg",
+    "static/media/eng.png": "/static/media/eng.10e24b78cebe355cb88c.png",
+    "static/media/info2.png": "/static/media/info2.35e6cf9748f072fb5668.png",
+    "static/media/maths.png": "/static/media/maths.e0f65e442e358f338371.png",
+    "static/media/e2.jpg": "/static/media/e2.838419899fbc9eb4c8ce.jpg",
+    "static/media/whitelogo.png": "/static/media/whitelogo.01cf8c9783019a7c6640.png",
+    "static/media/sci.png": "/static/media/sci.b34d938c4a4c64ef14f3.png",
+    "static/media/info1.png": "/static/media/info1.58df92a8fb6809b9d5a6.png",
+    "static/media/newlogo.png": "/static/media/newlogo.35d52558c83d45d43f87.png",
+    "static/media/info3.png": "/static/media/info3.77ddff7322af8c0a9611.png",
+    "static/media/contact.jpg": "/static/media/contact.fba7d1fdda1e9a3f31e1.jpg",
+    "static/media/course5.jpg": "/static/media/course5.923a0c6259fec07dc285.jpg",
+    "static/media/newlogopng.png": "/static/media/newlogopng.d9af544ddd1b38b19801.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.7e16f0e6.css.map": "/static/css/main.7e16f0e6.css.map",
+    "main.3c2fe6ba.js.map": "/static/js/main.3c2fe6ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e16f0e6.css",
+    "static/js/main.3c2fe6ba.js"
+  ]
+}
