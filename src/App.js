@@ -36,12 +36,6 @@ import { inject } from '@vercel/analytics';
 inject();
 
 function App() {
-  // const commands = [
-  //   {
-  //     command: ["Go to * page", "Go to *", "Open * page", "Open *"],
-  //     callback: (redirectPage) => setRedirectUrl(redirectPage),
-  //   },
-  // ];
   
   const commands = [
     {
