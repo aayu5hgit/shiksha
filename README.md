@@ -1,7 +1,6 @@
-
 ## Demo Video
 
-<video src="src/images/shikshaDemo.mp4" />
+https://github.com/aayu5hgit/shiksha/assets/86314754/f333d869-e430-4d62-b73c-e251c5fa8cf6
 
 
 ## Screenshots (Home)
