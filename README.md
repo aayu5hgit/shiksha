@@ -1,3 +1,6 @@
+## Demo Video
+
+https://github.com/aayu5hgit/shiksha/assets/86314754/f333d869-e430-4d62-b73c-e251c5fa8cf6
 
 
 ## Screenshots (Home)
@@ -11,7 +14,7 @@
 ## Screenshots (About Us)
 <img src = "src/images/ss/ss5.png" />
 <img src = "src/images/ss/ss6.png" />
-<img src = "src/images/ss/ss7.png" />
+<img src = "src/images/ss/ss15.png" />
 
 <hr>
 
@@ -29,4 +32,4 @@
 <img src = "src/images/ss/ss14.png" />
 
 ## Screenshots (Mobile Responsive)
-<img src = "src/images/ss/mobss1.PNG" height="500px"/>  <img src = "src/images/ss/mobss2.PNG" height="500px"/>  <img src = "src/images/ss/mobss3.PNG" height="500px"/>  <img src = "src/images/ss/mobss4.PNG" height="500px"/>  <img src = "src/images/ss/mobss5.PNG" height="500px"/>  <img src = "src/images/ss/mobss6.PNG" height="500px"/>  <img src = "src/images/ss/mobss7.PNG" height="500px"/>  <img src = "src/images/ss/mobss8.PNG" height="500px"/>  <img src = "src/images/ss/mobss9.PNG" height="500px"/>  <img src = "src/images/ss/mobss10.PNG" height="500px"/>  <img src = "src/images/ss/mobss11.PNG" height="500px"/>  <img src = "src/images/ss/mobss12.PNG" height="500px"/>  <img src = "src/images/ss/mobss13.PNG" height="500px"/>  <img src = "src/images/ss/mobss14.PNG" height="500px"/>  <img src = "src/images/ss/mobss15.PNG" height="500px"/>
+<img src = "src/images/ss/mobss1.PNG" height="500px"/>  <img src = "src/images/ss/mobss2.PNG" height="500px"/>  <img src = "src/images/ss/mobss3.PNG" height="500px"/>  <img src = "src/images/ss/mobss4.PNG" height="500px"/>  <img src = "src/images/ss/mobss5.PNG" height="500px"/>  <img src = "src/images/ss/mobss6.PNG" height="500px"/>  <img src = "src/images/ss/mobss7.PNG" height="500px"/>  <img src = "src/images/ss/mobss8.PNG" height="500px"/>  <img src = "src/images/ss/mobss9.PNG" height="500px"/>  <img src = "src/images/ss/mobss11.PNG" height="500px"/>  <img src = "src/images/ss/mobss12.PNG" height="500px"/>  <img src = "src/images/ss/mobss13.PNG" height="500px"/>  <img src = "src/images/ss/mobss14.PNG" height="500px"/>  <img src = "src/images/ss/mobss15.PNG" height="500px"/>
