@@ -22,32 +22,6 @@ const people = [
       'https://media.licdn.com/dms/image/C4D03AQGjVJnZjakikg/profile-displayphoto-shrink_200_200/0/1657648501282?e=1700092800&v=beta&t=2hsLm8z_INY3nH59HSVzYgUFC3wyNXZ_MTRUTVCHgXA',
       
   },
-  // {
-  //   name: 'Mansi Bellani',
-  //   role: 'Co-Founder / CIO',
-  //   imageUrl:
-  //     'https://media.licdn.com/dms/image/D4D03AQF_sjSz2esQWA/profile-displayphoto-shrink_100_100/0/1689216851927?e=1695859200&v=beta&t=PcC2gr_o7cAiThV_uHFBsv3K_udJjZjd2d2scy55nfc',
-  // },
-  // {
-  //   name: 'Niranjan Yeole',
-  //   role: 'CFO',
-  //   imageUrl:
-  //     'https://media.licdn.com/dms/image/C4E03AQFMaAxosx5O8A/profile-displayphoto-shrink_100_100/0/1642847850390?e=1695859200&v=beta&t=nUjDR1YwYcLXZ7Qjxx7jPxPVPSYupqjHXzIGXWoVvGU',
-  // },
-  // {
-  //   name: 'Anuj Bagad',
-  //   role: 'COO',
-  //   imageUrl:
-  //     'https://media.licdn.com/dms/image/C4D03AQG7ln3Kb53VZA/profile-displayphoto-shrink_100_100/0/1641273867979?e=1695859200&v=beta&t=La4q8Eg25kwPNzgMgDugEziMUXBECbFoAVDxSACt8pg',
-    
-  // },
-  // {
-  //   name: 'Anuj Bagad',
-  //   role: 'COO',
-  //   imageUrl:
-  //     'https://media.licdn.com/dms/image/C4D03AQG7ln3Kb53VZA/profile-displayphoto-shrink_100_100/0/1641273867979?e=1695859200&v=beta&t=La4q8Eg25kwPNzgMgDugEziMUXBECbFoAVDxSACt8pg',
-    
-  // },
   {
     name: 'Sudhanshu Sabale',
     role: 'CTO + HR',
@@ -64,10 +38,29 @@ const people = [
   },
   {
     name: 'Cheshta Gurbaxani',
-    role: 'CFO + MD',
+    role: 'CFO',
     imageUrl:
       'https://images.unsplash.com/photo-1634926878768-2a5b3c42f139?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGNhcnRvb24lMjBnaXJsfGVufDB8fDB8fHww',
     
+  },
+    {
+    name: 'Mansi Bellani',
+    role: 'Data Analyst + CIO',
+    imageUrl:
+      'https://media.licdn.com/dms/image/D4D03AQF_sjSz2esQWA/profile-displayphoto-shrink_100_100/0/1689216851927?e=1695859200&v=beta&t=PcC2gr_o7cAiThV_uHFBsv3K_udJjZjd2d2scy55nfc',
+  },
+  {
+    name: 'Anuj Bagad',
+    role: 'Backend Dev + MD',
+    imageUrl:
+      'https://media.licdn.com/dms/image/C4D03AQG7ln3Kb53VZA/profile-displayphoto-shrink_100_100/0/1641273867979?e=1695859200&v=beta&t=La4q8Eg25kwPNzgMgDugEziMUXBECbFoAVDxSACt8pg',
+    
+  },
+  {
+    name: 'Niranjan Yeole',
+    role: 'PR-Head',
+    imageUrl:
+      'https://media.licdn.com/dms/image/C4E03AQFMaAxosx5O8A/profile-displayphoto-shrink_100_100/0/1642847850390?e=1695859200&v=beta&t=nUjDR1YwYcLXZ7Qjxx7jPxPVPSYupqjHXzIGXWoVvGU',
   },
 ]
 
