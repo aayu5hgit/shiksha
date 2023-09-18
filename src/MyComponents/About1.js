@@ -69,7 +69,7 @@ function About1() {
 
   return (
     <div className="relative overflow-hidden bg-gray-900 py-35 sm:py-40">
-      <img className="absolute inset-0 object-cover object-right w-full h-full bg-gradient-to-t -z-10 md:object-center" />
+      <img className="absolute inset-0 object-cover object-right w-full h-full bg-gradient-to-t -z-10 md:object-center" alt="profile" />
       <svg
         viewBox="0 0 1097 845"
         aria-hidden="true"
