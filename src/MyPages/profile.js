@@ -1,4 +1,3 @@
-import { PaperClipIcon } from '@heroicons/react/20/solid'
 import Header from './../MyComponents/Header';       
 import Doughnut from './../MyComponents/Chart';  
 import {useState, useEffect} from 'react';

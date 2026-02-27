@@ -1,8 +1,5 @@
 import React from "react";
-import { useState } from "react";
-import { Link, useNavigate } from "react-router-dom";
-import toast, { Toaster } from "react-hot-toast";
-import braille from "braille";
+import { useNavigate } from "react-router-dom";
 import sci from "./../images/sci.png";
 import math from "./../images/maths.png";
 import eng from "./../images/eng.png";
@@ -10,11 +7,6 @@ import hin from "./../images/hin.png";
 
 export default function SubjectCards() {
   const navigate = useNavigate();
-
-  function handleClick(subject) {
-    const brailleText = braille.toBraille(`This is the ${subject} course in braille.`);
-    toast(`Braille: ${brailleText}`);
-  }
 
   const subjects = [
     {
@@ -45,7 +37,6 @@ export default function SubjectCards() {
 
   return (
     <>
-      <Toaster />
       <div className="pt-6 pb-12 bg-gray-300">
         {subjects.map((subject) => (
           <div key={subject.name} className="container flex flex-col mx-auto mt-4 w-96 lg:w-4/5">
@@ -54,7 +45,7 @@ export default function SubjectCards() {
                 <img
                   className="inset-0 object-cover object-center w-full h-full"
                   src={subject.imageSrc}
-                  alt={`${subject.name} Image`}
+                  alt={subject.name}
                 />
               </div>
               <div className="flex flex-col justify-between w-full px-6 py-4 text-gray-800">

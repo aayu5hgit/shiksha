@@ -48,8 +48,6 @@ export default function Navbar({ fixed }) {
   const stats = "Your stats.";
   const settings = "Settings.";
 
-  const [navbarOpen, setNavbarOpen] = React.useState(false);
-
   return (
     <>
       <Disclosure as="nav" className="bg-gray-800">

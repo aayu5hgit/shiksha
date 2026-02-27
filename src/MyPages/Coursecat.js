@@ -1,11 +1,8 @@
 import React from "react";
-import Catalogue from "../MyComponents/Catalogue";
 import SubjectCards from "../MyComponents/SubjectCards";
 import Footer from './../MyPages/Footer';
 import Header from './../MyComponents/Header';
-import { NavLink } from 'react-router-dom';
 import bg from './../images/coursecatbg.png'
-import Banner from './../MyComponents/banner';
 
 
 function Coursecat() {

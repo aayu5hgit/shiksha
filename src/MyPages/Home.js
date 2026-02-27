@@ -8,7 +8,6 @@ import img4 from './../images/course2.jpg'
 import img5 from './../images/course5.jpg'
 import Footer from './../MyPages/Footer';
 import Header from './../MyComponents/Header';
-import { NavLink } from 'react-router-dom';
 
 const Home = () => {
   const settings = {

@@ -1,11 +1,8 @@
 import React from "react";
 import ScienceCatalogue from "../MyComponents/ScienceCatalogue";
-import SubjectCards from "../MyComponents/SubjectCards";
 import Footer from './Footer';
 import Header from '../MyComponents/Header';
-import { NavLink } from 'react-router-dom';
 import bg from './../images/scienceimg.gif'
-import Banner from '../MyComponents/banner';
 
 function Science() {
   return (

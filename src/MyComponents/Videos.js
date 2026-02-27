@@ -1,22 +1,13 @@
-import { border, Button, Heading, Stack, Text, VStack } from "@chakra-ui/react";
-import React, { useEffect, useState } from "react";
+import { Button, Heading, Stack, Text, VStack } from "@chakra-ui/react";
+import React, { useState } from "react";
 // import {Card, CardText, CardBody, CardTitle, CardSubtitle, CardImg} from 'reactstrap';
 import {
   Card,
-  CardHeader,
-  CardBody,
-  CardFooter,
-  Image,
-  Divider,
 } from "@chakra-ui/react";
 import Header from "./../MyComponents/Header";
 import Footer from "./../MyPages/Footer";
 
 const Videos = () => {
-  const handleClick = (e) => {
-    e.preventDefault();
-    console.log("The lecture description will be displayed here.");
-  };
   const videotitle = [
     {
       name: "Lecture Title",

@@ -1,7 +1,6 @@
 import './App.css';
 import './index.css';
 import './mic.css';
-import Header from './MyComponents/Header';
 import Home from './MyPages/Home';
 import Hero from './MyPages/Hero';
 import Coursecat from './MyPages/Coursecat';
@@ -9,16 +8,13 @@ import Aboutus from './MyPages/Aboutus';
 import Donation from './MyPages/Donation';
 import Ngoenroll from './MyComponents/Ngoenroll';
 // import Career from './MyPages/Career';
-import { BrowserRouter as Router, Routes, Route, Link, } from 'react-router-dom';
-// import { NavLink } from 'react-router-dom';
-import { Navigate} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import  Videos  from './MyComponents/Videos';
 import Sidebarvideo from './MyComponents/Sidebarvideos';
-import { useTranslation } from 'react-i18next'
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useRef } from 'react';
 import SpeechRecognition, {
   useSpeechRecognition,
 } from "react-speech-recognition";
@@ -30,7 +26,6 @@ import Profile from './MyPages/profile'
 import Science from './MyPages/Science'
 import Math from './MyPages/Math'
 import English from './MyPages/English'
-import vol from "./images/volume.png"
 import VoiceNav from "./MyComponents/VoiceNav"
 import { inject } from '@vercel/analytics';
 inject();
@@ -76,16 +71,9 @@ function App() {
     },
   ];
 
-  const { transcript, resetTranscript } = useSpeechRecognition({ commands });
-  const [isListening, setIsListening] = useState(false);
+  const { resetTranscript } = useSpeechRecognition({ commands });
+  const [, setIsListening] = useState(false);
   const microphoneRef = useRef(null);
-  const handleListing = () => {
-    setIsListening(true);
-    microphoneRef.current.classList.add("listening");
-    SpeechRecognition.startListening({
-      continuous: false,
-    });
-  };
   const stopHandle = () => {
     setIsListening(false);
     microphoneRef.current.classList.remove("listening");

@@ -1,5 +1,4 @@
 import "../App.css"; 
-import Header from './../MyComponents/Header';
 import { useSpeechSynthesis } from "react-speech-kit";
 import { 
   getAuth, 
@@ -8,7 +7,6 @@ import {
 } from "firebase/auth"; 
 import app from "../firebase"; 
 import { useState, useEffect } from "react"; 
-import { LockClosedIcon } from '@heroicons/react/20/solid'
 import { useNavigate } from "react-router";
 import logo from './../images/bluelogo.png'
  
@@ -35,7 +33,6 @@ function Login() {
       }) 
       .catch((error) => { 
         const errorCode = error.code; 
-        const errorMessage = error.message; 
         alert(errorCode); 
         // .. 
       }); 
@@ -53,7 +50,6 @@ function Login() {
       }) 
       .catch((error) => { 
         const errorCode = error.code; 
-        const errorMessage = error.message; 
         alert(errorCode); 
       }); 
       
@@ -64,7 +60,7 @@ function Login() {
     } else {
       alert("Error!!");
     }
-  }, []);
+  }, [navigate]);
   
  
   return ( 
