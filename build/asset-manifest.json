@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38341177.css",
+    "main.js": "/static/js/main.17b2a8ad.js",
+    "static/media/shikshaIntro.gif": "/static/media/shikshaIntro.b3aca1938af5ecf61e68.gif",
+    "static/media/cimg1.png": "/static/media/cimg1.f14a3e7a2eb99b7c9cd2.png",
+    "static/media/engimg.gif": "/static/media/engimg.18c6e1bc30158c5faef2.gif",
+    "static/media/scienceimg.gif": "/static/media/scienceimg.f9bde0285ccea14e4bc0.gif",
+    "static/media/cimg3.png": "/static/media/cimg3.be40e3a160628459b3a2.png",
+    "static/media/helpinghand.png": "/static/media/helpinghand.d40e8a0d4d04d12b43cf.png",
+    "static/media/cimg2.png": "/static/media/cimg2.897ccea6b0c291f2fe86.png",
+    "static/media/mathimg.gif": "/static/media/mathimg.5b31f2e63ebffccd009f.gif",
+    "static/media/aboutus.png": "/static/media/aboutus.00dedcda37c0d02a839d.png",
+    "static/media/coursecatbg.png": "/static/media/coursecatbg.4ecdc366d8569c019b9e.png",
+    "static/media/hin.png": "/static/media/hin.13a347c1eda157e9ecf1.png",
+    "static/media/maths.png": "/static/media/maths.ad6c205bf5582d14b2bc.png",
+    "static/media/sci.png": "/static/media/sci.f7aaab59a67a47995f9b.png",
+    "static/media/eng.png": "/static/media/eng.a3ef47f685d54e831c18.png",
+    "static/media/course2.jpg": "/static/media/course2.c23a51219b52516a5c35.jpg",
+    "static/media/feedback.png": "/static/media/feedback.d2a70fba14e8219ef6a9.png",
+    "static/media/e3.jpg": "/static/media/e3.31911f70e953484d2dd1.jpg",
+    "static/media/e2.jpg": "/static/media/e2.838419899fbc9eb4c8ce.jpg",
+    "static/media/whitelogo.png": "/static/media/whitelogo.10d8c76013b446287f68.png",
+    "static/media/info2.png": "/static/media/info2.3c1b1f184ef8ad60a541.png",
+    "static/media/info3.png": "/static/media/info3.174e1d2c5887242f3463.png",
+    "static/media/info1.png": "/static/media/info1.bf8e9d85d8b46346cd46.png",
+    "static/media/contact.jpg": "/static/media/contact.6342e9d867e1bbb440de.jpg",
+    "static/media/course5.jpg": "/static/media/course5.59a0446454bdf20826df.jpg",
+    "static/media/bluelogo.png": "/static/media/bluelogo.9f906c82f3ef692a411b.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.38341177.css.map": "/static/css/main.38341177.css.map",
+    "main.17b2a8ad.js.map": "/static/js/main.17b2a8ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38341177.css",
+    "static/js/main.17b2a8ad.js"
+  ]
+}
