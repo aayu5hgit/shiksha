@@ -1,5 +1,5 @@
 import React from "react";
-import Chart from "chart.js/auto";
+import "chart.js/auto";
 import { Doughnut } from "react-chartjs-2";
 const labels = ["Science", "Science-Assignments", "Mathematics", "Mathematics-Assignments", "English", "English-Assignments"];
 const data = {

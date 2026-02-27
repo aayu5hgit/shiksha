@@ -1,6 +1,5 @@
 import React from "react";
-import { Card } from "react-bootstrap";
-import {Link,NavLink} from "react-router-dom"
+import {Link} from "react-router-dom"
 import vol from './../images/volume.png' 
 import profile from './../images/profile.png' 
 import { useSpeechSynthesis } from "react-speech-kit";

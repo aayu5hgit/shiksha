@@ -1,15 +1,10 @@
 import React from "react";
-import { Card } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import vol from "./../images/volume.png";
-import profile from "./../images/profile.png";
 import { useSpeechSynthesis } from "react-speech-kit";
 
 function ScienceCatalogue() {
   const { speak } = useSpeechSynthesis();
-  const evs = "Environmental Science-1. It contains 12 lectures and 7 quizes";
-  const evs2 = "Environmental Science-2. It contains 12 lectures and 7 quizes";
-  const evsprac = "Environmental Science-Practical. It contains the practice of basic science experiments";
 
   const cardData = [
     {

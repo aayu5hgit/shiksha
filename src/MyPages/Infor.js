@@ -1,7 +1,5 @@
-import React, { useState } from 'react'
-import img from './../images/helpinghand.png'
+import React from 'react'
 import vol from './../images/volume.png' 
-import mute from './../images/mute.png' 
 import img1 from './../images/info1.png'
 import img2 from './../images/info2.png'
 import img3 from './../images/info3.png'
@@ -18,7 +16,7 @@ const features = [
 ]
 
 const Infor = () => {
-  const { speak, pause } = useSpeechSynthesis()
+  const { speak } = useSpeechSynthesis()
   // const { pause } = duseSpeechSynthesis.pause()
   const text = 'Why Shiksha? Shiksha is designed in such a way that it is accessible to students with various difficulties, like visual, auditory etc. Our platform will have features like captioning, audio to text, screen reading and many more. Shiksha will foster an inclusive learning environment by promoting diversity and acceptance. Visual aids like pictures, diagrams, and videos can make thoughts and ideas easier to understand for nonverbal or non-speaking people.'
   return (

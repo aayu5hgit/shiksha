@@ -2,7 +2,6 @@ import React from "react";
 import EnglishCatalogue from "../MyComponents/EnglishCatalogue";
 import Footer from './Footer';
 import Header from '../MyComponents/Header';
-import { NavLink } from 'react-router-dom';
 import bg from './../images/engimg.gif';
 
 function English() {

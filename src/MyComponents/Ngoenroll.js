@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from './../MyPages/Footer';
 import Header from './../MyComponents/Header';
-import {Link,NavLink} from "react-router-dom"
+import {Link} from "react-router-dom"
 
 function Ngoenroll() {
   return (
@@ -32,14 +32,13 @@ function Ngoenroll() {
                   </div>
                 </div>
                 <div class="col-6 col-md-4 text-black">
-                  <a
-                    href="#"
-                    class="btn btn-warning"
+                  <Link
+                    to="/"
+                    className="btn btn-warning nav-link active"
                     style={{ width: "10rem" }}
                   >
-                    {/* Enroll */}
-                     <Link to="/" class="nav-link active">Sign Out</Link>
-                  </a>
+                    Sign Out
+                  </Link>
                 </div>
               </div>
             </div>
